@@ -1,2 +1,2 @@
 # practices
-some codes the sharpen my thoughts
+some codes that sharpen my thoughts
