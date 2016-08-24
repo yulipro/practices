@@ -1,9 +1,8 @@
-File Edit Options Buffers Tools Perl Help
+
 #! perl
 use strict;
 use warnings;
 use Data::Dumper;
-use Clone 'clone';
 
 sub rev{
   my ($a, $s, $e)=@_;
